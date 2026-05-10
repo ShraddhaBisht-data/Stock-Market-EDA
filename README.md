@@ -38,13 +38,13 @@ Dataset Source:
 
 ## Visualizations
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+
 
 ### ETF Distribution
-![ETF](images/etf_distribution.png)
+
 
 ## Conclusion
 This analysis helps understand the structure and distribution of NASDAQ listed securities metadata.
 
 ## Author
-Pradip Dhale
+Shraddha Bish
