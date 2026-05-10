@@ -47,4 +47,5 @@ Dataset Source:
 This analysis helps understand the structure and distribution of NASDAQ listed securities metadata.
 
 ## Author
-Shraddha Bish
+Shraddha Bisht
+
